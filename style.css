@@ -4,6 +4,7 @@
 
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: lightslategray;
 }
 
 .main-container {
@@ -43,7 +44,7 @@ input {
 }
 
 input:hover { 
-     border: 1px solid #E65100 ;
+     border: 1px solid red;
 }
 
 p {
