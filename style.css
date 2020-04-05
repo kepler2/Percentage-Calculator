@@ -23,7 +23,8 @@ body {
 
 .shortcuts {
     background-color: #FFCC80;
-    padding: 2px;
+    padding: 1px;
+    line-height: 0.5;
     width: 30%;
     margin: 0 auto;
     border-radius: 10px;
@@ -61,7 +62,11 @@ button {
 }
 
 button:active {
-    background-color: #bbdefb;
+    background-color: #0383eb;
+}
+
+button:hover {
+    border: 1px solid red;
 }
 
 h1, h3 {
